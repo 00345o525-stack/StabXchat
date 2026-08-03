@@ -1,0 +1,6 @@
+{
+  "name": "CyberPulse AI",
+  "description": "Киберпанковый мессенджер с ИИ, шифрованием, личными и общими чатами",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
